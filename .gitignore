@@ -1,0 +1,22 @@
+# IntelliJ files
+.idea/
+*.iml
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+*.venv
+
+# Environment variables and secrets
+.env
+*.env.local
+
+# Data
+data/
+
+# Logs
+logs/
+/debug_vision_output*
